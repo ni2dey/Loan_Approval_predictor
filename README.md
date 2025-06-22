@@ -15,9 +15,9 @@ The goal of this project is to assist financial institutions in automating the l
 🛠️ Technologies & Libraries Used
 Python
 
- **Pandas** – for data manipulation and preprocessing
+ Pandas – for data manipulation and preprocessing
 
-**NumPy **– for numerical operations
+NumPy– for numerical operations
 
 **Matplotlib & Seaborn** – for data visualization
 
